@@ -1,0 +1,32 @@
+.my-header{
+    padding: 10px
+    
+}
+
+.my-form form{
+    /* height: 80vh; */
+    border: 1px solid rgb(221, 168, 168);
+    padding: 30px;
+    border-radius: 10px;
+    
+   
+}
+.my-form input{
+    padding: 5px 15px;
+    border: 1px solid #a56c6c;
+    border-radius: 8px;
+    display: block;
+    width: 100%
+}
+
+.my-form button{
+    padding: 5px 15px;
+    border: 1px solid #a56c6c;
+    border-radius: 8px;
+}
+
+.my-form input:hover {
+    border-color:  #333333;
+    color: #333333;
+   
+}
