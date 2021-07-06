@@ -2,9 +2,9 @@
 
 Using Paystack Payment Gateway in your React Web Application.
 
-This repo contained the Demo code used for the [Article]().
+This repo contained the Demo code used for the [Article](https://juggernaut.hashnode.dev/paystack-payment-integration-in-react).
 
-Read Article [here]().
+Read Article [here](https://juggernaut.hashnode.dev/paystack-payment-integration-in-react).
 
 ## Reference/ Additional Resources:
 
